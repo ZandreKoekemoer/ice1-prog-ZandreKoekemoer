@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\bin\Debug\net8.0\prjInventoryManagement.exe
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\bin\Debug\net8.0\prjInventoryManagement.deps.json
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\bin\Debug\net8.0\prjInventoryManagement.runtimeconfig.json
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\bin\Debug\net8.0\prjInventoryManagement.dll
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\bin\Debug\net8.0\prjInventoryManagement.pdb
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\obj\Debug\net8.0\prjInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\obj\Debug\net8.0\prjInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\obj\Debug\net8.0\prjInventoryManagement.AssemblyInfo.cs
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\obj\Debug\net8.0\prjInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\obj\Debug\net8.0\prjInventoryManagement.dll
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\obj\Debug\net8.0\refint\prjInventoryManagement.dll
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\obj\Debug\net8.0\prjInventoryManagement.pdb
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\obj\Debug\net8.0\prjInventoryManagement.genruntimeconfig.cache
+C:\Users\User\source\repos\prjInventoryManagement\prjInventoryManagement\obj\Debug\net8.0\ref\prjInventoryManagement.dll
